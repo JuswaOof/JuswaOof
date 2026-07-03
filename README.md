@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Joshua Salcedo, a graduate with a Bachelor of Science in Computer Engineering. My passion for technology and design has led me to specialize in web development, and I'm excited to bring my skills to your project.<br>I'm proficient in HTML, CSS, and JavaScript, and I have experience working with design tools like Figma, Adobe Illustrator, and Photoshop. Check out my portfolio to see some of my recent work! https://juswaoof.github.io/Portfolio-2022/
+Hello! I'm Joshua Salcedo, a graduate with a Bachelor of Science in Computer Engineering. My passion for technology and design has led me to specialize in web development, and I'm excited to bring my skills to your project.<br>I'm proficient in HTML, CSS, and JavaScript, and I have experience working with design tools like Figma, Adobe Illustrator, and Photoshop. Check out my portfolio to see some of my recent work! https://juswaoof.github.io/JuswaOofv3/
 
 
 # 💻 Tech Stack:
